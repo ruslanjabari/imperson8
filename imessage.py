@@ -1,4 +1,3 @@
-import applescript
 from imessage_reader import fetch_data
 import subprocess
 
